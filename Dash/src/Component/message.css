@@ -1,0 +1,42 @@
+
+.message{
+	
+	padding: 5px !important;
+	width: fit-content;
+	font-family: roboto;
+	
+}
+.message_user{
+	text-align: right !important;
+	margin-left: auto !important; 
+	  padding: 5px !important;
+}
+
+.userCard{
+	
+	border-radius: 20px !important;
+	background: #ed8756  !important;
+	color: white !important ;
+}
+
+.message_guestCard{
+	
+	background:rgb(205, 205, 200) !important;
+	border-radius: 20px !important;
+	
+}
+
+
+.card_content{
+	padding: 10px !important;
+	height: content-fit;
+	vertical-align: center;
+}
+p{
+	font-size: 10px;
+	margin-left:10px;
+	margin-bottom: 0px;
+	font-weight: bold;
+	color:  #ed8756;
+	font-family: helvetica,arial,monospace;
+}

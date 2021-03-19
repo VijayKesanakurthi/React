@@ -1,0 +1,13 @@
+.login{
+display: flex !important;
+align-items: center;
+margin: 5rem !important;
+padding: 4rem  0px!important;
+justify-items:center;
+justify-content: center !important;
+vertical-align: middle !important;
+}
+
+login-button{
+	margin-top: 2rem !important;
+}
